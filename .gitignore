@@ -6,3 +6,6 @@
 
 ## VSCODE ##
 .vscode/
+
+## Compiled code 
+target/
