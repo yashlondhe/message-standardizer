@@ -23,6 +23,8 @@ This application receives messages from two different providers (Alpha and Beta)
 
 ## Running the Application
 
+First navigate to the <PROJECT_DIR> eg /home/yash/message-standardizer and then run the below commands
+
 ```bash
 # Build the application
 mvn clean compile
@@ -36,7 +38,6 @@ The application will start on port 8080.
 ## Testing
 
 Use the provided test data files in the `<PROJECT_DIR>/test-data/` directory:
-## First navigate to the <PROJECT_DIR> eg /home/yash/message-standardizer and then run the below commands
 ```bash
 # Test Alpha odds message
 curl -X POST http://localhost:8080/provider-alpha/feed \
