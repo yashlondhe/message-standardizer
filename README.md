@@ -23,9 +23,10 @@ This application receives messages from two different providers (Alpha and Beta)
 
 ## Running the Application
 
-# Prerequisite
-# Java (jdk) 17
-# Maven 3+
+### Prerequisites
+- Java (jdk) 17
+- Maven 3+
+
 
 First navigate to the <PROJECT_DIR> eg /home/yash/message-standardizer and then run the below commands
 
